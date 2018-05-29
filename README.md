@@ -1,5 +1,5 @@
 # Simple-Compiler
-Please checkout ProjectDescription.pdf for description of the project.
+Please check out ProjectDescription.pdf for description of the project.
 # How to Compile
 ```
 First you need to have .co file that contains expressions and assignments
